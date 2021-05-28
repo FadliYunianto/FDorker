@@ -20,9 +20,9 @@ This Script is Only For Educational Purposes or Super Dorker is a Tool which fin
 
 To USE the script type the following commands
 
-```git clone https://github.com/TheSpeedX/SDorker.git```
+```git clone https://github.com/FadliYunianto/FDorker.git```
 
-```cd SDorker```
+```cd FDorker```
 
 ```chmod +x SDork```
 
