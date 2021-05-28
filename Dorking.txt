@@ -1,2 +1,0 @@
-intitle:"wordpress"+"my blog"+"admin"
-intitle:"my blog"+"admin"
